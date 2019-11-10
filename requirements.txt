@@ -1,0 +1,4 @@
+opencv-python==4.1.1.26
+pyzbar==0.1.8
+imutils==0.5.3
+pandas==0.25.0
