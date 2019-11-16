@@ -24,7 +24,7 @@ true_list = pd.read_csv('students.csv')
 while True:
 
 	frame = vs.read()
-	frame = imutils.resize(frame, width=400)
+	frame = imutils.resize(frame, width=200)
 
 	barcodes = pyzbar.decode(frame)
 
